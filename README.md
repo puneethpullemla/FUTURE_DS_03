@@ -58,25 +58,25 @@ Addressing logistical concerns and hidden dissatisfaction will improve event qua
 ## 📸 Screenshots  
 
 ### 🔹 Sentiment Analysis  
-![Sentiment Pie Chart](<img width="703" height="700" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/3b14cbe9-d4ed-4cb6-b720-1581393323eb" />
-)  
+![Sentiment Pie Chart]<img width="703" height="700" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a4cf4d7f-0fa8-41fb-998a-209c2697afe9" />
+
 
 ### 🔹 Word Cloud  
-![Word Cloud](<img width="791" height="692" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/7cd54bcf-3df7-4ddf-8388-2495bb2ffa4e" />
-)  
+![Word Cloud]<img width="791" height="692" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/7cd54bcf-3df7-4ddf-8388-2495bb2ffa4e" />
+
 
 ### 🔹 Department Ratings  
-![Department Ratings Bar Chart](<img width="1242" height="698" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d0e4e6b2-2f41-4800-a4c7-1d4b765a4713" />
-)  
+![Department Ratings Bar Chart]<img width="1242" height="698" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d0e4e6b2-2f41-4800-a4c7-1d4b765a4713" />
+
 
 ### 🔹 Event Ratings  
-![Event Ratings Bar Chart](<img width="792" height="561" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c4d9c34d-113b-4045-9be9-ef7bcc8c61f2" />
-)  
+![Event Ratings Bar Chart]<img width="792" height="561" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c4d9c34d-113b-4045-9be9-ef7bcc8c61f2" />
+  
 
 ---
 
 ## 🔗 LinkedIn Post
 📌 Check out my LinkedIn post about this task:  
-[LinkedIn – Task 3 Post]([https://www.linkedin.com/feed/update/urn:li:activity:7357497683311292417/](https://www.linkedin.com/feed/update/urn:li:ugcPost:7362432748302594048/))  
+[LinkedIn – Task 3 Post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7362432748302594048/)
 
 
