@@ -59,8 +59,10 @@ Addressing logistical concerns and hidden dissatisfaction will improve event qua
 
 | Sentiment Distribution | Word Cloud |
 |-------------------------|------------|
-| ![Sentiment Pie Chart](<img width="703" height="700" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a45ab401-f101-451c-816e-6737c4baa7a6" />)
- | ![Word Cloud](<img width="791" height="692" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/009eaa63-b66b-4c8d-844f-87fa958079fe" />)
+| ![Sentiment Pie Chart](<img width="703" height="700" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/403bc55a-36da-41a8-8a72-0deb1983aa41" />
+)
+ | ![Word Cloud](<img width="791" height="692" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ac385eab-0c1b-4992-9c30-4bbe3659ac50" />
+)
  |
 
 | Department Ratings | Event Ratings |
@@ -73,6 +75,6 @@ Addressing logistical concerns and hidden dissatisfaction will improve event qua
 
 ## 🔗 LinkedIn Post
 📌 Check out my LinkedIn post about this task:  
-[LinkedIn – Task 3 Post](https://www.linkedin.com/feed/update/urn:li:activity:7357497683311292417/)  
+[LinkedIn – Task 3 Post]([https://www.linkedin.com/feed/update/urn:li:activity:7357497683311292417/](https://www.linkedin.com/feed/update/urn:li:ugcPost:7362432748302594048/))  
 
 
