@@ -55,15 +55,23 @@ Addressing logistical concerns and hidden dissatisfaction will improve event qua
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-| Sentiment Distribution | Word Cloud |
-|-------------------------|------------|
-| [Sentiment Pie Chart](<img width="703" height="700" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/403bc55a-36da-41a8-8a72-0deb1983aa41" />) | [Word Cloud](<img width="791" height="692" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/ac385eab-0c1b-4992-9c30-4bbe3659ac50" />) |
+### 🔹 Sentiment Analysis  
+![Sentiment Pie Chart](<img width="703" height="700" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/3b14cbe9-d4ed-4cb6-b720-1581393323eb" />
+)  
 
-| Department Ratings | Event Ratings |
-|---------------------|---------------|
-| ![Bar Chart](<img width="1242" height="698" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/5ae08c6b-baa6-415b-840f-6906064964a1" />) | ![Bar Chart](<img width="792" height="561" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/7f290bac-ce96-4a0e-8a31-df60ce6b0b90" />) |
+### 🔹 Word Cloud  
+![Word Cloud](<img width="791" height="692" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/7cd54bcf-3df7-4ddf-8388-2495bb2ffa4e" />
+)  
+
+### 🔹 Department Ratings  
+![Department Ratings Bar Chart](<img width="1242" height="698" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d0e4e6b2-2f41-4800-a4c7-1d4b765a4713" />
+)  
+
+### 🔹 Event Ratings  
+![Event Ratings Bar Chart](<img width="792" height="561" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/c4d9c34d-113b-4045-9be9-ef7bcc8c61f2" />
+)  
 
 ---
 
